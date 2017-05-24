@@ -24,7 +24,7 @@
 Hola colega para tener acceso a los recursos en la nube de los que dispone la empresa ingresa con tu usuario y contraseña en el boton de abajo "ingresar"
 </div>
 
-En esta herramienta podras accesar al sistema de archivos en la nubre de grupo ack <br>
+En esta herramienta podras accesar al sistema de archivos en la nube de grupo ack. por favor inicia con tu nombre de usuario y contraseña. <br>
 <img style="margin:12px 0 12px 0;" src="img/acklogo.png" width="620" height="400" alt="Imagen para el intro" title="Mi sitio web, actualidad y tecnologia"><br>
 
 
