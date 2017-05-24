@@ -28,8 +28,7 @@ Es la primera que ven los que entran al sitio por primera vez y en todas las pá
 En ella puedo poner enlaces a las otras páginas, imágenes sugestivas, videos o cualquier otro elemento.<br>
 <img style="margin:12px 0 12px 0;" src="img/acklogo.png" width="620" height="400" alt="Imagen para el intro" title="Mi sitio web, actualidad y tecnologia"><br>
 
-<h2>Enlaces a mis artículos</h2>
-<div class="enlaces">
+
 <style>
 form {
 
