@@ -23,9 +23,8 @@
 <div class="intro">
 Hola colega para tener acceso a los recursos en la nube de los que dispone la empresa ingresa con tu usuario y contraseña en el boton de abajo "ingresar"
 </div>
-Esta es la página principal o de inicio de mi sitio web.<br>
-Es la primera que ven los que entran al sitio por primera vez y en todas las páginas restantes hay un enlace que conduce a ella.<br>
-En ella puedo poner enlaces a las otras páginas, imágenes sugestivas, videos o cualquier otro elemento.<br>
+
+En esta herramienta podras accesar al sistema de archivos en la nubre de grupo ack <br>
 <img style="margin:12px 0 12px 0;" src="img/acklogo.png" width="620" height="400" alt="Imagen para el intro" title="Mi sitio web, actualidad y tecnologia"><br>
 
 
