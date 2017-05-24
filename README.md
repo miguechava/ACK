@@ -15,7 +15,7 @@
     include "include/logo2.php";   
 ?>
 <div id="page">
-<h1>Mi sitio web, actualidad y tecnologia</h1>
+<h1>GrupoACK S.A. DE C.V</h1>
 <?php    
     include "include/compartir.php";   
 ?>
