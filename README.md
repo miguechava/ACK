@@ -12,7 +12,7 @@
 <div id="inicio"></div>
 <div id="header">
 <?php    
-    include "include/logo2.php";   
+    include "include/acklogo.png";   
 ?>
 <div id="page">
 <h1>GrupoACK S.A. DE C.V</h1>
