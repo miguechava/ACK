@@ -30,7 +30,7 @@ En ella puedo poner enlaces a las otras páginas, imágenes sugestivas, videos o
 
 <h2>Enlaces a mis artículos</h2>
 <div class="enlaces">
-<a include="articulo1.php">ingresar</a><br>
+<a href="articulo1.php">ingresar</a><br>
 <a href="articulo2.php">Otro artículo</a><br>
 <a href="articulo3.php">Otro artículo</a><br>
 <a href="articulo4.php">Otro artículo</a><br>
