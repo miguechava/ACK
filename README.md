@@ -30,13 +30,12 @@ En ella puedo poner enlaces a las otras páginas, imágenes sugestivas, videos o
 
 <h2>Enlaces a mis artículos</h2>
 <div class="enlaces">
-<a href="articulo1.php">ingresar</a><br>
 <style>
 form {
     border: 3px solid #f1f1f1;
 }
 input[type=text], input[type=password] {
-    width: 100%;
+    width: 70%;
     padding: 12px 10px;
     margin: 8px 0;
     display: inline-block;
