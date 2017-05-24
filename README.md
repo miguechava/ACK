@@ -49,7 +49,7 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 70%;
 }
 button:hover {
     opacity: 0.8;
