@@ -105,16 +105,4 @@ span.psw {
   
 </form>
 
-<a href="articulo2.php">Otro artículo</a><br>
-<a href="articulo3.php">Otro artículo</a><br>
-<a href="articulo4.php">Otro artículo</a><br>
 </div>
-
-Puede tener cualquier cantidad de texto, pero se recomienda que sea breve, que no sea necesario desplazarse por ella, que el contenido principal pueda verlo el lector al primer vistazo.<br>
-En la parte inferior del título están los botones para compartirla en las principales redes sociales.<br>
-En el extremo inferior deben ir los botones que permitan a los lectores seguirnos en estos sitios sociales.<br>
-<br>
-
-<?php    
-    include "include/share.php";   
-?> 
