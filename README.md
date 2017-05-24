@@ -26,7 +26,7 @@ Descripción de mi sitio web o una pequeña introducción sobre lo que trata o s
 Esta es la página principal o de inicio de mi sitio web.<br>
 Es la primera que ven los que entran al sitio por primera vez y en todas las páginas restantes hay un enlace que conduce a ella.<br>
 En ella puedo poner enlaces a las otras páginas, imágenes sugestivas, videos o cualquier otro elemento.<br>
-<img style="margin:12px 0 12px 0;" src="img/hacer-paginas-php.jpg" width="620" height="400" alt="Imagen para el intro" title="Mi sitio web, actualidad y tecnologia"><br>
+<img style="margin:12px 0 12px 0;" src="img/acklogo.png" width="620" height="400" alt="Imagen para el intro" title="Mi sitio web, actualidad y tecnologia"><br>
 
 <h2>Enlaces a mis artículos</h2>
 <div class="enlaces">
