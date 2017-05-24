@@ -35,7 +35,7 @@ form {
 
 }
 input[type=text], input[type=password] {
-    width: 70%;
+    width: 50%;
     padding: 12px 10px;
     margin: 0px 0;
     display: inline-block;
@@ -64,7 +64,7 @@ button:hover {
     margin: 24px 0 12px 0;
 }
 img.avatar {
-    width: 40%;
+    width: 50%;
     border-radius: 50%;
 }
 .container {
@@ -81,7 +81,7 @@ span.psw {
        float: none;
     }
     .cancelbtn {
-       width: 100%;
+       width: 50%;
     }
 }
 </style>
