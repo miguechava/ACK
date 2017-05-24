@@ -85,7 +85,7 @@ span.psw {
 }
 </style>
 
-<h2>Login Form</h2>
+<h2>Formato de ingreso</h2>
 
 <form action="/action_page.php">
   <div class="imgcontainer">
