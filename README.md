@@ -21,7 +21,7 @@
 ?>
 
 <div class="intro">
-Descripción de mi sitio web o una pequeña introducción sobre lo que trata o se puede encontrar en él.
+Hola colega para tener acceso a los recursos en la nube de los que dispone la empresa ingresa con tu usuario y contraseña en el boton de abajo "ingresar"
 </div>
 Esta es la página principal o de inicio de mi sitio web.<br>
 Es la primera que ven los que entran al sitio por primera vez y en todas las páginas restantes hay un enlace que conduce a ella.<br>
@@ -30,7 +30,7 @@ En ella puedo poner enlaces a las otras páginas, imágenes sugestivas, videos o
 
 <h2>Enlaces a mis artículos</h2>
 <div class="enlaces">
-<a href="articulo1.php">Primer artículo de ejemplo</a><br>
+<a href="articulo1.php">ingresar</a><br>
 <a href="articulo2.php">Otro artículo</a><br>
 <a href="articulo3.php">Otro artículo</a><br>
 <a href="articulo4.php">Otro artículo</a><br>
