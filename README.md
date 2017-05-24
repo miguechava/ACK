@@ -32,12 +32,12 @@ En ella puedo poner enlaces a las otras páginas, imágenes sugestivas, videos o
 <div class="enlaces">
 <style>
 form {
-    border: 3px solid #f1f1f1;
+
 }
 input[type=text], input[type=password] {
     width: 70%;
     padding: 12px 10px;
-    margin: 8px 0;
+    margin: 0px 0;
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
