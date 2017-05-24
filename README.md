@@ -67,7 +67,7 @@ img.avatar {
     border-radius: 50%;
 }
 .container {
-    padding: 16px;
+    padding: 10px;
 }
 span.psw {
     float: right;
