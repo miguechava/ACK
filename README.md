@@ -35,7 +35,7 @@ form {
 
 }
 input[type=text], input[type=password] {
-    width: 50%;
+    width: 40%;
     padding: 12px 10px;
     margin: 0px 0;
     display: inline-block;
@@ -49,7 +49,7 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 70%;
+    width: 40%;
 }
 button:hover {
     opacity: 0.8;
