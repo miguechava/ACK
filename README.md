@@ -17,7 +17,7 @@
 <div id="page">
 <h1>GrupoACK S.A. DE C.V</h1>
 <?php    
-    include "include/compartir.php";   
+    include "include/acklogo.png";   
 ?>
 
 <div class="intro">
